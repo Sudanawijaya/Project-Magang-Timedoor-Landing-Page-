@@ -21,7 +21,7 @@ var project_swiper = new Swiper(".projectSwiper", {
     loop: true,
     autoplay: {
         delay: 3500,
-        disableOnInteraction: false
+        disableOnInteraction: false,
     }
 })
 
